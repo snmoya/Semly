@@ -11,7 +11,7 @@ import SwiftUI
 struct SemlyApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            MainView() // Entry point of your app
         }
     }
 }
